@@ -1,3 +1,7 @@
+# ¡Importante!: ver la configuración del nginx inverso en github y abrir el puerto del router 8005 para poder hacer broadcasting desde un mountpoint.
+
+
+
 ![](https://github.com/AzuraCast/AzuraCast/raw/main/resources/azuracast.png)![](https://static.scarf.sh/a.png?x-pxid=d5169ead-cdcf-482c-ab64-c7137d3f8769)
 
 # AzuraCast: A Simple, Self-Hosted Web Radio Management Suite
